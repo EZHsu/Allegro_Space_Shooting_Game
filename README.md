@@ -5,12 +5,11 @@ This is a shooting game that is, even though under the filename of .cpp, by C pr
 ## Dependencies
 Allegro version 5.2.0
 
-![Allegro-logo](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/7044c18a-6881-4d99-9402-096742f56bc4)
+![Allegro-logo](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/7ef13d9d-4db1-4a7a-be4b-a34ed20c8f67)
 
 CodeBlocks 20.03
 
-![Cb_splash](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/20cfd25a-740f-4cc2-9bcf-666d1cae226e)
-
+![Cb_splash](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/ef8c20cc-6135-4f40-a732-7ba24315d185)
 
 ## Build
 `final_project.cpp` is the project file for the whole game.
@@ -27,12 +26,12 @@ CodeBlocks 20.03
 
 Method I
 1. Open the Project File with Code Block
-   
-![螢幕擷取畫面 2023-09-08 172555](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/afb77fd1-6c23-4ecd-af1f-b9d65634621f)
+
+![螢幕擷取畫面 2023-09-08 172555](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/6320b5ff-9335-4e66-88d2-570bef7a5197)
 
 2. Compile
    
-![螢幕擷取畫面 2023-09-08 173325](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/bbc85e5f-be66-465e-acb7-f06b9f01f1dc)
+![螢幕擷取畫面 2023-09-08 173325](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/13cf6a2f-b242-48c0-a4b8-1da715c81ee7)
 
 The full installation process are shown in `Allegro_turorial.pdf`.
 
@@ -40,21 +39,21 @@ Method II (Windows OS only)
 
 Directly Execute `final_project.exe
 
-![螢幕擷取畫面 2023-09-08 195350](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/2d5e655e-bacf-442d-8390-ee09e05ffa93)
+![螢幕擷取畫面 2023-09-08 195350](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/774063a2-cc15-4081-a84f-dea376b4547b)
 
 ## Expected Results
 Home Screen
 
-![螢幕擷取畫面 2023-09-08 173755](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/18737b1d-6eb1-4f29-9fc1-892ce969db8f)
+![螢幕擷取畫面 2023-09-08 173755](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/1dc53f8a-85a4-49d2-af89-ba92319ee835)
 
 First Stage
 
-![螢幕擷取畫面 2023-09-08 173851](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/f761bca2-26f3-4ee5-8bf0-0bfb0ac11bdf)
+![螢幕擷取畫面 2023-09-08 173851](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/e937e738-ac9a-443f-b987-9fa906baa4de)
 
 Boss Stage
 
-![螢幕擷取畫面 2023-09-08 174033](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/38b39dce-1744-4949-9b87-65e62695bf75)
+![螢幕擷取畫面 2023-09-08 174033](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/baa5c01d-0376-4f2f-ada5-8b7b4842312e)
 
 Score Board
 
-![螢幕擷取畫面 2023-09-08 174130](https://github.com/EZHsu/Allegro_Shooting_Game/assets/101862861/c1a1f900-d500-4f4a-a364-17c11fbf4a56)
+![螢幕擷取畫面 2023-09-08 174130](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/9c45525a-d707-4228-85d0-b0f339b11f3f)
