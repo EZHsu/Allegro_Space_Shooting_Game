@@ -37,7 +37,7 @@ The full installation process are shown in `Allegro_turorial.pdf`.
 
 Method II (Windows OS only)
 
-Directly Execute `final_project.exe
+Directly Execute `final_project.exe`
 
 ![螢幕擷取畫面 2023-09-08 195350](https://github.com/EZHsu/Allegro_Space_Shooting_Game/assets/101862861/774063a2-cc15-4081-a84f-dea376b4547b)
 
